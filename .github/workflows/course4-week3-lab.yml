@@ -8,6 +8,7 @@ on:
   push:
     paths:
       - 'course4/week3-ungraded-labs/C4_W3_Lab_4_Github_Actions/**'
+      - '.github/workflows/**
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
